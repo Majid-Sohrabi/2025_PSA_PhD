@@ -2,7 +2,7 @@
 
 - The course is created by [**Majid Sohrabi**](https://www.hse.ru/en/org/persons/401648437) for HSE University, Moscow, Russia
 
-- Program Link: [PhD Programme in **Cognitive Science**]([https://www.hse.ru/en/ma/pd/](https://aspirantura.hse.ru/cogito/))
+- Program Link: [PhD Programme in **Cognitive Science**](https://aspirantura.hse.ru/cogito/)
 
 ## Homeworks
 
