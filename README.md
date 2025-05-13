@@ -9,5 +9,8 @@
 I will collect your home assignment solutions through private github repositories that you need to create. If you haven't done so yet, please give me the info about your homework repository through the google form (see the main pinned message in the telegram chat).
 
 
-|  |  |  |
-| -- | ---------------------------- | ------- |
+#	File	Deadline
+
+| 01 | [hw01_frecuency_central_tendency.ipynb](00-Homework/hw01_frecuency_central_tendency.ipynb) | 19 May 2025 23:59  |
+| -- | ------------------------| ------- |
+| 02 | [hw02_outliers_z_score.ipynb](00-Homework/hw02_outliers_z_score.ipynb) | 19 May 2025 23:59 |
