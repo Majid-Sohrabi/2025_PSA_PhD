@@ -14,3 +14,5 @@ I will collect your home assignment solutions through private github repositorie
 | 01 | [hw01_frecuency_central_tendency.ipynb](00-Homework/hw01_frecuency_central_tendency.ipynb) | 19 May 2025 23:59  |
 | -- | ------------------------| ------- |
 | 02 | [hw02_outliers_z_score.ipynb](00-Homework/hw02_outliers_z_score.ipynb) | 19 May 2025 23:59 |
+| 03 | [hw03_linear_regression.ipynb](00-Homework/hw03_linear_regression.ipynb) | 31 May 2025 23:59 |
+| 04 | [hw04_classification.ipynb](00-Homework/hw04_classification.ipynb) | 31 May 2025 23:59 |
